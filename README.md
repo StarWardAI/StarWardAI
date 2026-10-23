@@ -44,3 +44,6 @@ Eonarc is our personal AI agent in development. Its direction centers on underst
 - **[Contribution guidelines](https://github.com/MengShengbo/FluxOs/blob/main/CONTRIBUTING.md)** — Read the contribution scope and process.
 
 FluxOS is available under the [MIT license](https://github.com/MengShengbo/FluxOs/blob/main/LICENSE).
+
+
+
