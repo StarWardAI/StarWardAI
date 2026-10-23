@@ -7,5 +7,6 @@ Their original paths are retained; brand colors are set for standalone images.
 
 Source: `https://github.com/simple-icons/simple-icons/tree/develop/icons`
 
-The StarWard banner and line illustrations in `icons/` were created for this profile.
-The product illustrations are visual navigation symbols, not third-party marks.
+The raster banner and product illustrations in `generated/` are AI-generated
+artwork created for the StarWard profile. Product illustrations are visual
+navigation assets, not third-party marks.
